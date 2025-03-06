@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+Mi nombre es Mike y soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia - Sede Bogotá.
+
+#Tecnologías y herramientas
+
+- Lenguajes: Java, Python, C++
+- Frameworks: Django, Spring, Springboot
+- DBs: PostgreSQL, MySQL
+- DevOps: Git
+
+  #¡Conectemos!
+
+  msbetancourtge@unal.edu.co
+
 <!--
 **msbetancourtge/msbetancourtge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
