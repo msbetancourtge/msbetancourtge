@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-# Mi nombre es Mike y soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia - Sede Bogotá. 🧑‍💻
+## Mi nombre es Mike y soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia - Sede Bogotá. 🧑‍💻
 
-# 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 - ** Lenguajes: Java, Python, C++
 - ** Frameworks: Django, Spring, Springboot
