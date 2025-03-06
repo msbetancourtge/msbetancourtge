@@ -1,29 +1,17 @@
 ## Hi there 👋
 
-Mi nombre es Mike y soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia - Sede Bogotá.
+# Mi nombre es Mike y soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia - Sede Bogotá. 🧑‍💻
 
-#Tecnologías y herramientas
+# 🛠️ Tecnologías y herramientas
 
-- Lenguajes: Java, Python, C++
-- Frameworks: Django, Spring, Springboot
-- DBs: PostgreSQL, MySQL
-- DevOps: Git
+- ** Lenguajes: Java, Python, C++
+- ** Frameworks: Django, Spring, Springboot
+- ** DBs: PostgreSQL, MySQL
+- ** DevOps: Git
 
-  #¡Conectemos!
 
-  msbetancourtge@unal.edu.co
+## 📫 Contacto
+Si quieres ponerte en contacto conmigo, puedes encontrarme en:
+- **Email:** [msbetancourtge@unal.edu.co](mailto:msbetancourtge@unal.edu.co)  
 
-<!--
-**msbetancourtge/msbetancourtge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Mikes's GitHub stats](https://github-readme-stats.vercel.app/api?username=msbetancourtge)](https://github.com/msbetancourtge/github-readme-stats)
